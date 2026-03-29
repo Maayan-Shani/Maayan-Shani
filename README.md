@@ -94,9 +94,7 @@ Here are some ideas to get you started:
   <a href="mailto:maayan200374@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-    </a>
-
+  
   <a href="https://github.com/Maayan-Shani">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
