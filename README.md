@@ -57,6 +57,7 @@ PostgreSQL • SQL
 
 ### ⚙️ Tools & Technologies
 Git • GitHub • Linux • HTML
+
 ---
 
 ## 📬 Let's connect!
