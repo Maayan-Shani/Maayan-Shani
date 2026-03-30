@@ -1,5 +1,11 @@
 ## Hi 👋 I'm Maayan Shani
 
+🎓 B.Sc. Computer Science student at Afeka – Tel Aviv Academic College of Engineering.
+📱 Focused on Mobile App Development (Android/Kotlin) & Game Development (Unity).
+💡 Turning complex logic into seamless, interactive user experiences.
+🌟 Passionate about solving challenges & exploring new technologies.
+
+
 <!--
 **Maayan-Shani/Maayan-Shani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
