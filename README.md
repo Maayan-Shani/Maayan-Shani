@@ -37,21 +37,21 @@ Here are some ideas to get you started:
 <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" style="margin:6px;" /></a>
 <a href="https://kotlinlang.org/"><img src="https://skillicons.dev/icons?i=kotlin" style="margin:6px;" /></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://skillicons.dev/icons?i=c" style="margin:6px;" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" style="margin:6px;" /></a>
-
 <br/>
 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" style="margin:6px;" /></a>
 <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio" style="margin:6px;" /></a>
 <a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase" style="margin:6px;" /></a>
 <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" style="margin:6px;" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" style="margin:6px;" /></a>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" style="margin:6px;" /></a>
-
 <br/>
 
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" style="margin:6px;" /></a>
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" style="margin:6px;" /></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" style="margin:6px;" /></a>
 <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" style="margin:6px;" /></a>
+<br/>
+
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" style="margin:6px;" /></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" style="margin:6px;" /></a>
 
