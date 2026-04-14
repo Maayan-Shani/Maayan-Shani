@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 ## 📬 Let's connect!
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/maayan-shani-304269383/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin:5px;"/></a>
 <a href="mailto:maayan200374@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" style="margin:5px;"/></a>
 <a href="https://github.com/Maayan-Shani"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" style="margin:5px;"/></a>
