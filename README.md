@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-* **💻 Languages:** Python, Java, Kotlin, C, C#
+* **💻 Languages:** Python, Java, Kotlin, Swift, C, C#
 * **📱 Mobile & Game Development:** Android (Kotlin), Firebase, Unity
 * **🗄️ Databases:** PostgreSQL, SQL
 * **⚙️ Tools & Technologies:** Git, GitHub, Linux, HTML
