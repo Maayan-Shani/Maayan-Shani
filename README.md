@@ -1,10 +1,11 @@
-## Hi 👋 I'm Maayan Shani
-
 <div align="center">
-  🎓 B.Sc. Computer Science student at Afeka - Tel Aviv Academic College of Engineering.<br>
-  📱 Focused on Mobile App Development (Android/Kotlin) & Game Development (Unity).<br>
-  💡 Turning complex logic into seamless, interactive user experiences.<br>
-  🌟 Passionate about solving challenges & exploring new technologies.
+
+Hi 👋 I'm Maayan Shani
+
+🎓 B.Sc. in Computer Science | Software Developer specializing in Mobile and Game Development.
+📱 Building mobile applications with Kotlin & Swift and games with Unity & C#.
+🚀 Focused on creating polished, user-centered, real-world products.
+
 </div>
 
 
