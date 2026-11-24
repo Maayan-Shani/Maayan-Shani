@@ -2,8 +2,8 @@
 
 # Hi 👋 I'm Maayan Shani
 
- **B.Sc. in Computer Science | Software Developer** specializing in **Mobile and Game Development**.  
- Building mobile applications with **Kotlin & Swift** and games with **Unity & C#**.  
+ **B.Sc. in Computer Science | Software Developer** specializing in **Full-Stack, Mobile and Game Development**.  
+ Building web and mobile applications with **React, TypeScript, Node.js, Kotlin & Swift**, and games with **Unity & C#**.  
  Focused on creating polished, user-centered, real-world products.
 
 </div>
